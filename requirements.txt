@@ -36,11 +36,15 @@ matplotlib-inline==0.1.7
 nepali==0.4.0
 packaging==23.2
 parso==0.8.4
+pexpect==4.9.0
 Pillow==7.2.0
 prompt_toolkit==3.0.47
+psycopg2==2.9.10
 psycopg2-binary==2.8.5
+ptyprocess==0.7.0
 pure-eval==0.2.2
 pycparser==2.20
+Pygments==2.19.1
 PyJWT==1.7.1
 Pyphen==0.9.5
 pytz==2018.9
@@ -59,5 +63,3 @@ wcwidth==0.2.13
 WeasyPrint==51
 webencodings==0.5.1
 whitenoise==6.9.0
-psycopg2
-
